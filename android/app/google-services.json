@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "279321158778",
+    "firebase_url": "https://slicr-9a893-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "slicr-9a893",
+    "storage_bucket": "slicr-9a893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279321158778:android:335aa748b1a0f3c1ea47c3",
+        "android_client_info": {
+          "package_name": "com.example.slicr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279321158778-7lqdh5g48fn0k4p866lp475qovedlgua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPb-YoeMow-0xUy_GXAh52ElMCrZ_mu7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279321158778-7lqdh5g48fn0k4p866lp475qovedlgua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
